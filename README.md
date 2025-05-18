@@ -14,9 +14,8 @@ Create a table with:
 - Sort by `Sum of Sales` in **descending** order
 
 **Expected Output:**
+![image](https://github.com/user-attachments/assets/c989b59c-0453-419c-a2b2-e91eb58de89b)
 
-![Assignment 1 Example](![image](https://github.com/user-attachments/assets/c9191c2c-e10b-4135-ab1e-7af2edebe6c6)
-)
 
 ---
 
@@ -34,10 +33,12 @@ Using the **Netflix Titles** dataset:
 ## 📊 Assignment 3 – LODs & Histogram
 
 **Task:**
-
+- Create a Tableau histogram displaying the count of customers based on their order frequency, - with the number of orders on the x-axis and the corresponding customer count on the y-axis
 Create a **Histogram** in Tableau:
 - `X-axis`: Number of Orders
 - `Y-axis`: Count of Customers (based on order frequency)
+**Expected Output:**
+![image](https://github.com/user-attachments/assets/c7831d2f-d2f0-41fa-9faa-a8774f958e94)
 
 ---
 
@@ -50,8 +51,8 @@ Create a **Pie Chart** showing:
 - Based on `Sum of Sales`
 
 **Expected Output:**
+![image](https://github.com/user-attachments/assets/3f30b441-37d5-44ec-909d-cffa16147b0a)
 
-![Assignment 4 Example](./images/assignment4.png)
 
 ---
 
@@ -68,6 +69,8 @@ Build a **KPI Card** showing:
 
 **Helpful Symbols:**
 ▼ , ▲
+**Expected Output:**
+![image](https://github.com/user-attachments/assets/8fa0e1e4-f83e-4912-a712-d21bb105fe12)
 
 ---
 
@@ -126,20 +129,23 @@ Create a **Tableau Dashboard** using the **Sample Superstore** dataset.
 
 **Dashboard Logo:**
 
-![Dashboard Logo](./images/dashboard_logo.png)
+![image](https://github.com/user-attachments/assets/51e9671a-8e1f-4415-a028-22d546707303)
+
 
 **Show Filters Icon:**
+![image](https://github.com/user-attachments/assets/9bb049c1-6595-41ab-9812-caf0b003d3b7)
 
-![Show Filters](./images/show_filters_icon.png)
 
 **Hide Filters Icon:**
 
-![Hide Filters](./images/hide_filters_icon.png)
+![image](https://github.com/user-attachments/assets/0769e9bf-9849-4bec-8d09-c9e4efceae0d)
+
 
 **Dashboard Example:**
 
-![Dashboard Example](./images/dashboard_example.png)
+![image](https://github.com/user-attachments/assets/8a6d9bdf-e73a-4d3e-92f3-0d83457209cc)
+
 
 ---
 
-📍 _ExcelR Edtech Pvt. Ltd._
+📍Akhilesh Nishad
