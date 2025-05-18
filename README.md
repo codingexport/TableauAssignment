@@ -15,7 +15,8 @@ Create a table with:
 
 **Expected Output:**
 
-![Assignment 1 Example](./images/assignment1.png)
+![Assignment 1 Example](![image](https://github.com/user-attachments/assets/c9191c2c-e10b-4135-ab1e-7af2edebe6c6)
+)
 
 ---
 
